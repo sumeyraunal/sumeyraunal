@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div> <h1 align="center"> Sümeyra Ünal </h1> </div>
 <p>- Interested in Data Science </p>
 <p>- Currently working on Machine Learning </p>
