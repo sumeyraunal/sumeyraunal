@@ -1,9 +1,6 @@
 <div> <h1 align="center"> Sümeyra Ünal </h1> </div>
-<p>- Interested in Data Science </p>
-<p>- Currently working on Machine Learning </p>
-<p>- Lifetime learner </p>
-<p>- Honored to share her experience and knowledge with everone and always be eager to learn </p>
-<p>- 📫 How to reach sumeyra.unal.de@gmail.com</p>
+<p>- Data Science </p>
+<p>- 📫 How to reach: sumeyra.unal.de@gmail.com </p>
 
 <div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
