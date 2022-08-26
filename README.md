@@ -4,10 +4,8 @@
 
 <div> <h1 align="center"> SOCIAL PLATFORMS </h1> 
 <p align="center">
-<a href="https://www.linkedin.com/in/arslanevren/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:earslan4e@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
-<a href="https://medium.com/@arslanevren"><img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" /></a>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=arslanevren" alt="arslanevren" height="28"/></a>
+<a href="https://www.linkedin.com/in/s%C3%BCmeyra%C3%BCnal/"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sumeyra.unal.de@gmail.com"><img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
 </p></div>
 
 <div align="center"> <h1 align="center"> DATA VISUALIZATION </h1> </div>
@@ -39,23 +37,4 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="64"/> </a>
 <a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/pngegg%20(7).png"/> </a>  
 <a href="#" target="_blank"> <img src="https://github.com/arslanevren/arslanevren/blob/main/icons/icons8-amazon-web-services-64.png"/> </a>                                       <div>                                                                                                                                                                             
-  <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
-
-</p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanevren&theme=algolia&layout=compact" alt="languages" width="50%" >
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanevren&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanevren&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
-
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
-<p align="center">
-<a href="https://github.com/arslanevren/CapStone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanevren&repo=CapStone&theme=algolia" />
-</a>
-
-<a href="https://github.com/arslanevren/HandsOn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arslanevren&repo=HandsOn&theme=algolia" />
-</a>
-</p>
+ 
